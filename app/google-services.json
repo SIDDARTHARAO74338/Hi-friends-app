@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369647144236",
+    "project_id": "hi-friends-90ce5",
+    "storage_bucket": "hi-friends-90ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369647144236:android:9140a01a35e004d555b089",
+        "android_client_info": {
+          "package_name": "com.siddartharao.hifriends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrne9YsHG8yblyD6lk_kOHEv1kKH86_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
