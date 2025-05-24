@@ -66,8 +66,8 @@ public class MainActivity extends AppCompatActivity {
 
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
 
-        TokenGenerator tokenGenerator = new TokenGenerator();
-        tokenGenerator.gen();
+        //TokenGenerator tokenGenerator = new TokenGenerator();
+        //tokenGenerator.gen();
 
         BtnRoomCode = findViewById(R.id.BtnRoomCode);
         roomCode = findViewById(R.id.roomCode);
